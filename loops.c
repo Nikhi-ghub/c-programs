@@ -13,7 +13,7 @@ for(int j=1:j>=0;j--)
   pritnf("%d",binary[j]);
 }
 int main(){
-  int num=7;
+  int num=5;
   printf("Input:%d\nnOutput:",num)
   printBinary(num);
   return0;
